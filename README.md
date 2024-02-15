@@ -1,6 +1,6 @@
 # Coffee Sales Dashboard
 
-The coffee sales dashboard in Excel offers a comprehensive analysis of coffee sales data, providing valuable insights for decision-making. 
+The coffee sales dashboard in Excel offers the analysis of coffee sales data by creating a dashboard and pivot tables, providing valuable insights for decision-making.
 
 The dashboard includes several key visualizations:
 
